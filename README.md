@@ -3,4 +3,6 @@ Desenvolvimento de Design Pattern Factory com conexão ao WebService a fim de re
 
 Utilização de Design Pattern Factory para construção dos objetos.
 
+Possibilidade de interação tanto via console quanto via jFrame
+
 
